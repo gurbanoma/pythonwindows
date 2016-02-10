@@ -8,7 +8,7 @@ toaddr = 'g.urbano.ma@gmail.com'
 #me quede aqui bar si manda
 text = 'test message sent from Python'
 username = 'g.urbano.ma'
-password = 'master18'
+password = 'password12345'
 msg = MIMEMultipart()
 msg['From'] = fromaddr
 msg['To'] = toaddr
